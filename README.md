@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Katrovsky/katrovsky/refs/heads/main/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Katrovsky/katrovsky/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Katrovsky/katrovsky/refs/heads/main/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Katrovsky/katrovsky/output/github-contribution-grid-snake.svg"
   />
 </picture>
